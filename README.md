@@ -10,3 +10,4 @@ Integrantes:
 * Daniel Saldaña Rodriguez | A00829752
 * Erick Isay Perales Aguilar | A00820330
 * David Emmanuel Ramirez Stanford | A00830642
+* Juan Manuel Cantú Antúnez | A01284053
