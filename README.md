@@ -6,3 +6,4 @@ En este repositorio, los colaboradores pueden compartir y colaborar en la creaci
 Integrantes:
 
 * Alejandro Murcia-Alfaro | A00828513
+* Laura Cecilia Diaz Seguy | A01620523
