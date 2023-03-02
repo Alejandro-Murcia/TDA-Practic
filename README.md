@@ -9,3 +9,4 @@ Integrantes:
 * Laura Cecilia Diaz Seguy | A01620523
 * Daniel Saldaña Rodriguez | A00829752
 * Erick Isay Perales Aguilar | A00820330
+* David Emmanuel Ramirez Stanford | A00830642
